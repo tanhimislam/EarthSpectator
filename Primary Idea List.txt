@@ -1,0 +1,42 @@
+Categories 2017:
+1. The Earth and Us: use NASA Earth Science data with socio and economic info. Impact on human-environmental interactions.
+2. Planetary Blues: use NASA hydrosphere and cryosphere (water and ice) data. analyze and visualize.
+3. Warning! Danger Ahead: use NASA data to monitor natural disaster, health and life risk due to disasters.
+4. Our Ecological Neighbours: use NASA earth science data to know ecological systems of Earth and understand life.
+5. Ideate and Create: use NASA Earth science data and design new ways to use data.
+
+1. App Name: Ice Detector (or whatever :/ )
+Category: Planetary Blues
+Details: 
+Use NASA data of where ice glaciers are located on the earth. Fix location of glaciers in the globe. 3D globe will be created.
+Users can zoom in and out, point at the blue frozen areas to see the area and current state of the ice glaciers. We can also add 
+pictures for some places.
+
+-Filters to see ice amount in a certain place [in km square or something or other units]
+-Filters to see tempratures of areas.
+-See different levels of glaciers for past 10 years [2006-2016]
+-Globe will be divided country wise. 
+-Clicking the specific area of a country user can see details of places where ice glaciers are located.[dotted]
+-Can add pictures of glaciers country wise [optional] 
+
+
+2. App Name: Meltdown Counter
+Category: Planetary Blues
+Details:
+Use NASA data of ice meltdown every year. Data of ice meltdown as the impact of global warming. The rate of ice meltdown will be 
+shown as a statistical graph of the last few years/by location. There will be predictions of future meltdown according to data.
+Plus we can add map to show maximum or minimum ice melting range in the globe.we can also add earth temperature in the globe
+and show how this temperature is affecting that areas to melt the ice.
+
+3. App Name: Disaster Range  
+Category: Warning! Danger Ahead
+Details:
+We will collect data of natural disasters (cyclone,earthquake,floods etc) of the last few years. Then we will implement those
+data in the globe to show these things:
+Deaths due to natural disaster in a specific place / users can search also specific year for that place.
+Total $ loss due to the disaster
+Parts of a location to see which disaster mostly occur in those places
+Countdown of natural disasters: filtering the globe with eartjquake will show places with earthquake records. The most earthquake
+areas will be red - the least to green. 
+- search by location means search by country. 
+- search by years means can get results for atleast 10 years later. 
